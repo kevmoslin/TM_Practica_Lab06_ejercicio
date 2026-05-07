@@ -1,17 +1,3 @@
-# flutter_lab06
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1.	Calculadora de edad en Flutter. Desarrollar una aplicación que reciba el año de nacimiento, valide el ingreso (año entre 1900 y el año actual) y muestre la edad calculada. La aplicación debe usar StatefulWidget, setState, FilledButton de Material 3, validación con errorText en el InputDecoration y presentar el resultado en un Card. Use el siguiente esqueleto como punto de partida:
+<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/cf368e33-1bdc-4cb1-a575-76536de90be4" />
+<img width="900" height="252" alt="image" src="https://github.com/user-attachments/assets/dee601f4-7be0-4b2b-95f1-5654c57aeeaa" />
